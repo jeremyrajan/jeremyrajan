@@ -6,3 +6,5 @@ I am a full stack developer, with years of experience in developing high perform
 
 - Read more about my [Blog](https://jeremyrajan.com/blog)
 - Follow me on [Twitter](https://twitter.com/jeremyrajan)
+
+<a href="https://www.buymeacoffee.com/jeremyrajan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
